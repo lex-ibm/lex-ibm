@@ -2,6 +2,13 @@
 
 I'm a Software/DevOps Engineer at IBM Power, a team dedicated to powering the future of computing. I'm driven by my passion for development, and my professional interests include cloud computing, containerization, processor development, embedded development, and kernel development.
 
+## I WON'T BE SUPPORTING ANY RHEL ISSUES OR PROJECTS
+I stand with the Open Source Comunity in condemning the decission by RedHat to no longer share Complete, Corresponding Source for RHEL.
+
+### You might find these links of interest
+- [A Comprehensive Analysis of the GPL Issues With the Red Hat Enterprise Linux (RHEL) Business Model](https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/)
+- [Jeff Geerling - Removing official support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
+
 ## Skills
 
 - **Programming Languages:** Golang, Python, Bash, TypeScript, C, Rust
