@@ -28,7 +28,7 @@ Beyond coding, I enjoy spending time outdoors, hiking, and mountain biking.
 
 ## Contact me
 
-I'm always open for collaborations and interesting projects. Feel free to reach out if you have an idea or just want to chat!
+TBH, I'm really bad at replying. But feel free to open an issue, just don't write personal stuff, my boss might read it 🫣
 
 ## Disclaimer
 
