@@ -1,6 +1,6 @@
 # Hello, I'm Lex! 👋 
 
-I'm a Software/DevOps Engineer at IBM Power, a team dedicated to powering the future of computing. I'm driven by my passion for development, and my professional interests include cloud computing, containerization, processor development, embedded development, and kernel development.
+I'm a Software/DevOps Engineer at IBM. I'm driven by my passion for development, and my professional interests include cloud computing, containerization, processor, embedded, and kernel development.
 
 ## Skills
 
@@ -21,7 +21,7 @@ Beyond coding, I enjoy spending time outdoors, hiking, and mountain biking.
 
 ## Contact me
 
-TBH, I'm really bad at replying. But feel free to open an issue, just don't write personal stuff, my boss might read it 🫣
+Don't...
 
 ## Disclaimer
 
