@@ -1,4 +1,4 @@
-# Hello, I'm Lex! 👋 
+# Hello, I'm Alex Garcia (Lex)! 👋 
 
 I'm a Software/DevOps Engineer at IBM. I'm driven by my passion for development, and my professional interests include cloud computing, containerization, processor, embedded, and kernel development.
 
